@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\petia\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\petia\\.nuget\\packages"
+    ]
+  }
+}
